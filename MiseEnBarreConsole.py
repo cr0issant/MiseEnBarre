@@ -19,7 +19,7 @@ longueur_barre = int( longueur_barre )
 
 
 #Recupération du nombre et longueurs des barres
-print ( "\n\nMise en barres")
+print ( "\n\nMise en barre")
 print ( "Liste des barres à découper\n" )
 
 while end != 'o':
@@ -44,7 +44,7 @@ for i in range ( len(ma_liste) ):
     total_a = total_a + ma_liste[i]
 print ( "Linéaire des ", section_barre, " :", total_a, "ml")
 
-#Boucle de mise en barres
+#Boucle de mise en barre
 while total_a != 0:
     
     #Incrémente les No des Barres
