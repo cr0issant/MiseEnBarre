@@ -1,8 +1,8 @@
 """
-Ce programme permet d'optimiser la découpe de poutres métallique ou bois dans des longueurs de poutres standard 
-et ainsi connaître le nombre minimal de poutre à acheter.
+Ce programme permet d'optimiser la découpe de poutres métallique ou bois dans des longueurs standard 
+et ainsi connaître le nombre minimal de poutres à acheter.
 Exemple : 
-Poutres achetées dans le commerce : longueur 5000 mm
+Poutres à acheter dans le commerce : longueur 5000 mm
 Poutres à découper : 10 longueurs de 400mm, 20 longueurs de 1600mm, etc...
 """
 
