@@ -27,7 +27,7 @@ print("\n\nMise en barre")
 print("Liste des barres à découper\n")
 
 while end != 'o':
-    nombre = input("Nombre de barre(s): ")
+    nombre = input("Nombre de barre(s) : ")
     nombre = int(nombre)
     longueur = input("Longueur barre(s) : ")
     longueur = int( longueur )
